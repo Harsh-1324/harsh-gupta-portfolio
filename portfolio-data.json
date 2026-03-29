@@ -11,12 +11,12 @@
       "enabled": true,
       "ctaButtons": [
         {
-          "text": "Get In Touch",
-          "url": "mailto:harshhgupta1324@gmail.com"
-        },
-        {
           "text": "View Resume",
           "url": "https://drive.google.com/file/d/1g8YJ5ODlF9nbohJXHRlUUAtmvbFy9cyl/view"
+        },
+        {
+          "text": "Get In Touch",
+          "url": "mailto:harshhgupta1324@gmail.com"
         }
       ]
     },
