@@ -31,11 +31,12 @@
           "JavaScript",
           "JDBC",
           "PostgreSQL",
+          "MySQL",
+          "Java",
           "Python",
           "Machine Learning",
           "AI",
-          "Quantum Computing",
-          "JAVA"
+          "Quantum Computing"
         ]
       }
     },
@@ -50,22 +51,22 @@
           "description": "Gained hands-on experience in full-stack web development using Node.js, Express.js, and core JavaScript concepts. Worked with JDBC and PostgreSQL for database connectivity and integration. Contributed to ReWear, a web-based platform for community clothing exchange."
         },
         {
+          "company": "Netleap It Training and Solutions , Nashik",
+          "position": "Data Analyst Intern",
+          "period": "December 2025 – January 2026",
+          "description": "Built Power BI dashboards using DAX, created churn prediction reports, and performed data modeling for actionable business insights"
+        },
+        {
           "company": "National Internship Portal",
           "position": "Ethical Hacking Virtual Internship",
           "period": "April - June 2025",
           "description": "Completed a 10-week Ethical Hacking internship, performing vulnerability assessments and penetration testing on web applications. Explored XSS vulnerabilities using Wappalyzer and HackTool."
         },
         {
-          "company": "National Internship Portal",
+          "company": "National Internship Portal ",
           "position": "AI-ML Virtual Internship",
           "period": "July - September 2024",
           "description": "Completed a 10-week AI-ML internship, working on data preprocessing. Gained practical experience in supervised and unsupervised learning & AI workflows."
-        },
-        {
-          "company": "Netleap It Training and Solutions , Nashik",
-          "position": "Data Analyst Intern",
-          "period": "December 2025 – January 2026",
-          "description": "Built Power BI dashboards using DAX, created churn prediction reports, and performed data modeling for actionable business insights"
         }
       ]
     },
