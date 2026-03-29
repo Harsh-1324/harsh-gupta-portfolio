@@ -1,0 +1,183 @@
+{
+  "settings": {
+    "name": "Harsh Gupta",
+    "title": "Full-Stack Developer | AI/ML Enthusiast | 2x Hackathon Semi-Finalist (Mastek Deep Blue, INDRADHANU)",
+    "location": "India",
+    "summary": "Aspiring Computer Engineering student with strong problem-solving skills and hands-on experience in building scalable systems.",
+    "profileImage": "https://image2url.com/r2/default/images/1774771403136-2880edc4-08fa-453d-b9cb-8d1a4722cd74.jpeg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:harshhgupta1324@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Node.js",
+          "Express.js",
+          "JavaScript",
+          "JDBC",
+          "PostgreSQL",
+          "Python",
+          "Machine Learning",
+          "AI",
+          "Quantum Computing",
+          "JAVA"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Sunandainfotech Pvt. Ltd., Nashik",
+          "position": "Web Development Intern",
+          "period": "January - February 2026",
+          "description": "Gained hands-on experience in full-stack web development using Node.js, Express.js, and core JavaScript concepts. Worked with JDBC and PostgreSQL for database connectivity and integration. Contributed to ReWear, a web-based platform for community clothing exchange."
+        },
+        {
+          "company": "National Internship Portal",
+          "position": "Ethical Hacking Virtual Internship",
+          "period": "April - June 2025",
+          "description": "Completed a 10-week Ethical Hacking internship, performing vulnerability assessments and penetration testing on web applications. Explored XSS vulnerabilities using Wappalyzer and HackTool."
+        },
+        {
+          "company": "National Internship Portal",
+          "position": "AI-ML Virtual Internship",
+          "period": "July - September 2024",
+          "description": "Completed a 10-week AI-ML internship, working on data preprocessing. Gained practical experience in supervised and unsupervised learning & AI workflows."
+        },
+        {
+          "company": "Netleap It Training and Solutions , Nashik",
+          "position": "Data Analyst Intern",
+          "period": "December 2025 – January 2026",
+          "description": "Built Power BI dashboards using DAX, created churn prediction reports, and performed data modeling for actionable business insights"
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "ChurnPredict: Customer Churn Prediction Engine",
+          "description": "Engineered an end-to-end machine learning pipeline in a Jupyter Notebook to analyze customer data and predict churn probability. Implemented robust data preprocessing, feature engineering, and multiple model training (e.g., Random Forest, XGBoost).",
+          "tags": [
+            "Machine Learning",
+            "Python",
+            "Jupyter Notebook",
+            "Data Preprocessing"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/Harsh-1324/customer-churn-prediction-ml"
+        },
+        {
+          "title": "Mastek Hackathon - Expense Analyzer for Students (EAS)",
+          "description": "Developed an AI-powered expense tracking web application, reaching Semi-Finals. Built an NLP-powered SMS parser to extract merchant, amount, and date from UPI messages. Implemented an ML engine with self-learning feedback loop for continuous improvement in transaction categorization accuracy. Designed an interactive dashboard.",
+          "tags": [
+            "AI",
+            "NLP",
+            "Web Application",
+            "Machine Learning"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "MET's Institute of Engineering, Nashik",
+          "degree": "T.E. Computer Engineering - 8.21 CGPA (SEM-IV-8.23)",
+          "period": "2023 - 2027"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Advanced C++ Training - IIT Bombay Spoken Tutorial",
+          "description": "Completed advanced C++ with 100% score, certified by IIT Bombay & EduPyramids."
+        },
+        {
+          "title": "Quantum Computing Training – C-DAC Hyderabad & IIT Roorkee",
+          "description": "Completed one-month program with 79.44%, covering Qubits, Quantum Gates, Algorithms, Qiskit, and Quantum ML."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "harshhgupta1324@gmail.com",
+      "phone": "+91 7030018839",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/harsh-gupta1324/",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/Harsh-1324",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Harsh Gupta. All rights reserved."
+  }
+}
